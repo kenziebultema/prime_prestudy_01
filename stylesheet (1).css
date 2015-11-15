@@ -1,0 +1,9 @@
+body {
+	color: #9adbfe
+}
+h1 {
+	text-transform: uppercase;
+	font-family: monospace;
+	letter-spacing: 2px;
+	margin: auto;
+}
